@@ -1,0 +1,22 @@
+{
+  "name": "wss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casa-Click/wss.git"
+  },
+  "author": "Facundo Lorenzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Casa-Click/wss/issues"
+  },
+  "homepage": "https://github.com/Casa-Click/wss#readme",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
